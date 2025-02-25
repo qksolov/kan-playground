@@ -24,7 +24,7 @@ css = """
     width: 1202px;
 }
 
-main.fillable.svelte-d1xpwf.app {
+main.fillable.svelte-1tlb5zm.app {
     width: 1202px !important;
     margin: 0 15px !important;
 }
